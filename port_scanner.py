@@ -71,7 +71,7 @@ def port_scanner():
     input("Scanning completed, press any key to exit")
 
 def main():
-    #banner()
+    banner()
     port_scanner()
     
 main()
